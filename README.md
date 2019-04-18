@@ -1,3 +1,8 @@
+# rainloop for Nextcloud 15
+go to
+https://github.com/vijaydwivedics/rainloop-nextcloud-v15
+
+
 # rainloop
 
 
